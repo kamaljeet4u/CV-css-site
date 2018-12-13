@@ -1,0 +1,214 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-size: 20px;
+}
+
+h1{
+  padding: 20px;
+  margin: 25px;
+font-family: 'Merienda', cursive;
+font-size: 2.6rem;
+color: #132238;
+}
+
+h2{
+  font-family: 'Merriweather', serif;
+color: #132238;
+font-weight: normal;
+margin: 50px;
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.topcontainer{
+  background-color: #ebf0f6;
+  padding-top: 150px;
+  position: relative;
+  height: 545px;
+  width: auto;
+}
+
+.topcloud{
+  padding: 10px;
+  height: 90px;
+  width: 130px;
+  position: absolute;
+  top: 50px;
+  right: 250px;
+}
+
+.bottomcloud{
+  padding: 10px;
+  height: 90px;
+  width: 130px;
+  position: absolute;
+  left: 270px;
+  top: 200px;
+}
+
+.mountain{
+  height:10px
+  width: auto;
+  position: absolute;
+  top: 210px;
+  left: 0px;
+  right: 50px;
+
+}
+
+
+.middlecontainer{
+  background-color: #98ccd3;
+  position: relative;
+  padding-bottom: 55px;
+  padding-top: 30px;
+}
+
+.mypic{
+  padding-top: 100px;
+}
+
+.hello{
+  font-weight: 400;
+  margin-top: 18px;
+  margin-bottom: 30px;
+}
+
+.javaweb{
+  margin-top: 10px;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #364e68;
+  border-width: 4px;
+  width: 5%;
+margin-top: 50px;
+}
+
+.codingpic{
+  margin-top: 50px;
+  margin-bottom: 15px;
+  padding-top: 0px;
+  position: relative;
+  margin-bottom: 40px;
+
+}
+
+.intro{
+  margin: 0px;
+  padding: 0px
+}
+
+.bottomcontainer{
+  background-color: #364e68;
+  position: relative;
+  padding-bottom: 60px;
+  padding-top: 20px;
+}
+
+.skillslogojava{
+  float: left;
+  padding-left: 70px;
+  height: 266px;
+  width: 375px;
+  padding-right: 30px;
+
+}
+.skillslogocoding{
+
+  display: inline;
+  padding-top: 40px;
+height: 207px;
+padding-top: 10px;
+  padding-right: 200px;
+
+
+}
+
+.skillslogops{
+padding-right: 28px;
+height:  230px;
+padding-top: 10px;
+
+}
+
+.lovethesethreethings{
+color:  #ebf0f6;
+font-weight: bold;
+padding-top: 30px;
+padding-bottom: 0px;
+margin-bottom: 0px;
+}
+
+
+
+.lastcontainer{
+  background-color: #132238;
+  position: relative;
+  padding-top: 30px;
+}
+
+
+.butn {
+  background: #e2eaf0;
+  background-image: -webkit-linear-gradient(top, #e2eaf0, #a1a4a6);
+  background-image: -moz-linear-gradient(top, #e2eaf0, #a1a4a6);
+  background-image: -ms-linear-gradient(top, #e2eaf0, #a1a4a6);
+  background-image: -o-linear-gradient(top, #e2eaf0, #a1a4a6);
+  background-image: linear-gradient(to bottom, #e2eaf0, #a1a4a6);
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 21px;
+  font-weight: bold;
+  padding: 8px 7px 8px 7px;
+  text-decoration: none;
+  margin-top: 30px;
+}
+
+.butn:hover {
+  background: #e2ebf0;
+  background-image: -webkit-linear-gradient(top, #e2ebf0, #93c9f0);
+  background-image: -moz-linear-gradient(top, #e2ebf0, #93c9f0);
+  background-image: -ms-linear-gradient(top, #e2ebf0, #93c9f0);
+  background-image: -o-linear-gradient(top, #e2ebf0, #93c9f0);
+  background-image: linear-gradient(to bottom, #e2ebf0, #93c9f0);
+  text-decoration: none;
+}
+
+.socialnetwork{
+  font-family: 'Montserrat', sans-serif;
+text-decoration: none;
+margin: 20px 52px;
+color:  #ebf0f6;
+
+}
+
+.socialnetwork:hover{
+  color: #98ccd3;
+}
+
+
+.copyright{
+  padding: 10px  10px;
+  font-size: 0.70rem;
+  color:  #ebf0f6;
+  margin-bottom: 0px;
+
+}
+
+.lastwords{
+  color:  #ebf0f6;
+}
+
+.lastwords2{
+  color:  #ebf0f6;
+  padding-bottom: 20px;
+}
